@@ -6,8 +6,9 @@ scipy
 scikit-learn
 lightgbm
 xgboost
-catboost
 graphviz
 plotly
 six
-# -e .
+# catboost
+dill
+-e .
