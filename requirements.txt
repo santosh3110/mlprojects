@@ -9,6 +9,6 @@ xgboost
 graphviz
 plotly
 six
-# catboost
+catboost
 dill
 -e .
