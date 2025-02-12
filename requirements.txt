@@ -11,4 +11,5 @@ plotly
 six
 catboost
 dill
+flask
 -e .
